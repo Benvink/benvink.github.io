@@ -16,6 +16,7 @@ h1 {
 	color: black;
 	text-align: center;
 	font-size: 14;
+	color:white;
 	}
 #name{
 	color:white;
@@ -38,10 +39,13 @@ h1 {
 h2 {font-family:sans-serif;
 font-size: 12;
 text-align:left;
+Color:white;
 }
 p {font-family: sans-serif;
 	text-align: left;
 	font-size: 14px;
+	color:white;
+	
 }
 
 
