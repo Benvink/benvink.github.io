@@ -12,12 +12,13 @@ body {
 
 h1 {
 	font-family: bahiana;
-	background-color: white;
+	background-color: transparent;
 	color: black;
 	text-align: center;
 	font-size: 14;
 	color:white;
 	}
+
 #name{
 	color:white;
 	padding-bottom: 20px;
