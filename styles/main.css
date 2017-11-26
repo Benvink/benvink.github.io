@@ -1,6 +1,5 @@
 
-body {background-color: red;
-		font-family: arial;
+body {font-family: arial;
 		}
 .index_page_header {
 	background-image: url(Sunset.jpg);
@@ -76,15 +75,54 @@ body {background-color: red;
 .innercontainer {
 	max-width: 500px;
 	margin: 0 auto;
+}
+.divcontainer2{
+	max-width: 500px
+	margin: 0 auto;
+}
+.socialarea{
+	clear: both;
+	float: left;
+	width: 45%;
+	margin-right:10%;
+}
+.sign_up {
+	float: right;
+	width: 45%
 
-}    
+}
+
 .profilepic { 
-	background-image: url("styles/Profile pic.jpeg");
+	background-image: url(Profilepic.jpeg);
     height: 100px;
     width: 100px;
-    background-size: 100px 100px;
     border-radius: 100%;
+    background-size: 100px 100px;
+
+ 
      }
+.socialmediapics {
+	display: inline;
+
+}
+
+.socialmediapics img {
+	width: 30px;
+	height: 30px;
+}
+
+ul {
+ list-style: none;
+ padding:0px;
+
+}
+
+.write_up {
+    width:300px;
+    height:auto;
+    float:left;
+    
+}
 
 
 
